@@ -1,6 +1,3 @@
-# API-GitHub-Refit
-Um simples programa em C# que faz uma busca na API de usuários do GitHub usando Refit.
-
 # API do GitHub com Refit
 Um simples programa em C# que faz uma busca na API de usuários do GitHub usando Refit.<br/><br/>
 <Strong>API GitHub: </Strong>(https://api.github.com/users/)<br/>
